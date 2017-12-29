@@ -1,0 +1,10 @@
+
+Inserisco una parte di codice
+
+void setup() {
+
+  
+  Serial.begin(115200); //inizializzo seriale
+  delay(3000);
+  
+  
