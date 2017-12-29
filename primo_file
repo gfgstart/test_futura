@@ -7,4 +7,4 @@ void setup() {
   Serial.begin(115200); //inizializzo seriale
   delay(3000);
   
-  
+  aggiungo una riga di test
